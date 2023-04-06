@@ -20,5 +20,6 @@ Return to the gallery, select the installed certificate and connect to your libr
 https://user-images.githubusercontent.com/5675681/230440485-d1c4308a-1757-40bd-bdcf-572882032ecb.mp4
 
 <br>
+
 **The gallery app doesn't store or decrypt your certificates. They are managed by Android keychain.**
 **You can delete the downloaded `.p12` file, but do not remove the certificate from the Android settings.**
